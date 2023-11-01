@@ -1,0 +1,50 @@
+vpn:
+https://itservices.gmu.edu/downloads/index.cfm?#CP_JUMP_34249
+always connect to vpn (Cisco Anyconnet Secure Mobility Client)
+vpn.gmu.edu
+
+MS Visio:
+https://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?cmi_cs=1&cmi_mnuMain=bdba23cf-e05e-e011-971f-0030487d8897&ws=0784610b-cd9b-e011-969d-0030487d8897&vsro=8
+ID: tchwodh6@gmu.edu
+Pass: IaminUSA
+
+ssh:
+http://labs.vse.gmu.edu/index.php/FAQ/SSH
+
+oracle:
+http://labs.vse.gmu.edu/index.php/Services/Oracle
+Your Oracle username is: tchowdh6
+Your Oracle password is: greelr
+I used my yahoo account for download
+
+oracle 12c:
+user: tanmDB, pass: tanmDB
+global database name: orcl
+pass: Iamin2GMU
+
+SQLplus login:
+username: system
+password: Iamin2GMU
+
+sql developer:
+
+PC's own DB:
+Connection name: TNMDB
+Username: system
+Pass: Iamin2GMU
+
+GMU database:
+Connection Name: GMUDB
+id: tchowdh6
+pass: greelr
+hostname:apollo.vse.gmu.edu 
+port:1521 
+SID: ite10g
+
+
+Connection by XAMPP:
+https://www.youtube.com/watch?v=VgT1Er1y_H4
+https://www.youtube.com/watch?v=KJme5JMxKeo
+
+uninstall oracle: https://www.youtube.com/watch?v=lyN9aJfMlzQ
+https://oracle-base.com/articles/misc/manual-oracle-uninstall
