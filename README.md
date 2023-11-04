@@ -1,4 +1,4 @@
-# LearningTSQL
+# Learning Database
 This is a collection of SQL files and resources to use as a refresher for TSQL.
 1. AIT 524: Course Material I used in GMU.
 2. Data has some database file which can be used for practice.
