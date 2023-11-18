@@ -1,8 +1,0 @@
-Your account has been created or updated.
-Your Oracle username is: tchowdh6
-Your Oracle password is: eefyrt
-
-
-https://access.vse.gmu.edu
-
-in putty type sqlplus
